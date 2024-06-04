@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MouslyCode
-- 👀 I’m interested in design actually
-- 🌱 I’m currently learning kotlin
+- 👀 I’m interested in designing and mobile programming
 
 <!---
 MouslyCode/MouslyCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
