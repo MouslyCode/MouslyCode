@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Achmad Reza Subkhan. <br>🌱 I’m currently learning Flutter
+Hi, my name is Achmad Reza Subkhan. <br>🌱 I’m currently learning Android
 
 
 ## 🌐 Socials:
