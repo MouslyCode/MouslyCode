@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Achmad Reza Subkhan. <br>🌱 I’m currently learning Android
+Hi, my name is Achmad Reza Subkhan. <br>🌱 I’m currently learning GO
 
 
 ## 🌐 Socials:
