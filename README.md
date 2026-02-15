@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal Project<br>👯 I’m looking to collaborate on Backend and Devops<br>🤝 I’m looking for help with also Backend and Devops<br>🌱 I’m currently learning Golang
+🔭 Building backend projects and learning by doing  <br>🤝 Open to collaboration in backend and DevOps  <br>⚙️ Curious about systems, infrastructure, and automation<br>🌱 Currently learning Go and AWS
 
 
 ## 🌐 Socials:
