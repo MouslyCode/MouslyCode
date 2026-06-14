@@ -1,4 +1,4 @@
-# Sup y'all, Reja here👋!
+# Sup y'all, Jimi here!
 Like to explore everything that i like. Recently explore about cli!!
 
 Hook me up here ->
