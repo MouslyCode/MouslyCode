@@ -1,5 +1,5 @@
 # Sup y'all, Jimi here!
-My name is actually reza, but you can call me jimi or mus(just for simple pronunciation)
+My name is actually reza, but you can call me jimi or mus(for just simple pronunciation)
 
 Like to explore everything that i like. Recently explore about cli!!
 
