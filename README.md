@@ -8,8 +8,6 @@ Hook me up here ->
 
 I repeat myself when under stress.
 I repeat myself when under stress.
-I repeat myself when under stress.
-I repeat myself when under stress.
 I repeat..
 The more I look at it,
 the more I like it.
