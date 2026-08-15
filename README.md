@@ -10,13 +10,12 @@ I enjoy exploring how things work behind the scenes, breaking things, fixing the
 * 🛠️ Backend development
 * ⚙️ DevOps & infrastructure
 * 🐹 Go
-* 🐇 Message brokers & distributed systems
 * 🐧 CLI & Linux
 * 🔍 Exploring how things work under the hood
 
 ### Tech
 
-`Go` `Laravel` `PHP` `MySQL` `RabbitMQ` `Docker` `Git`
+`Go` `Laravel` `PHP` `MySQL` `Docker` `Git`
 
 ### Currently
 
