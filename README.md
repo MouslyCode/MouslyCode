@@ -1,15 +1,31 @@
-# Sup y'all, Jimi here!
-My name is actually reza, but you can call me jimi or mus(for just simple pronunciation)
+# Hey, I'm Jimi 👋
 
-Like to explore everything that i like. Recently explore about cli!!
+I'm **Achmad Reza Subkhan**, but you can call me **Jimi** or **Mus**.
 
-Hook me up here ->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AchmadRezaSubkhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:workinreza@gmail.com)
+I'm currently learning and building around **Backend Development & DevOps**.
+I enjoy exploring how things work behind the scenes, breaking things, fixing them, and learning along the way.
 
-I repeat myself when under stress.
-I repeat myself when under stress.
-I repeat..
-The more I look at it,
-the more I like it.
+### What I'm into
 
+* 🛠️ Backend development
+* ⚙️ DevOps & infrastructure
+* 🐹 Go
+* 🐇 Message brokers & distributed systems
+* 🐧 CLI & Linux
+* 🔍 Exploring how things work under the hood
 
+### Tech
+
+`Go` `Laravel` `PHP` `MySQL` `RabbitMQ` `Docker` `Git`
+
+### Currently
+
+> Learning, building, breaking, fixing, repeating.
+
+### Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/achmadrezasubkhan/)
+
+---
+
+*The more I look at it, the more I like it.*
