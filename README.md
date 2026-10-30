@@ -1,6 +1,6 @@
-# Hey, I'm Jimi 👋
+# Hey, I'm Mus 👋
 
-I'm **Achmad Reza Subkhan**, but you can call me **Jimi** or **Mus**.
+My name is **Achmad Reza Subkhan**, but you can call me **Jimi** or **Mus**.
 
 I'm currently learning and building around **Backend Development & DevOps**.
 I enjoy exploring how things work behind the scenes, breaking things, fixing them, and learning along the way.
