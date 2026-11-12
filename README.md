@@ -7,9 +7,9 @@ I enjoy exploring how things work behind the scenes, breaking things, fixing the
 
 ### What I'm into
 
+* ⚙️ Amazon Web Service
 * 🛠️ Backend development
 * ⚙️ DevOps & infrastructure
-* 🐹 Go
 * 🐧 CLI & Linux
 * 🔍 Exploring how things work under the hood
 
